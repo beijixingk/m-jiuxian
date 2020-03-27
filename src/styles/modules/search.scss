@@ -1,0 +1,152 @@
+.indexContainer{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    position: relative;
+    background: #fff;
+
+
+    .headSearch{
+        width: 100%;
+        height: .44rem;
+        position: fixed;
+        top:0;
+        left:0;
+        z-index: 1000;
+        padding: 0 .54rem 0 .33rem;
+        // overflow: hidden;
+        border-bottom:.01rem solid #e4e4e4 ;
+        .searchInput{
+            margin: .06rem 0;
+            position: relative;
+            input{
+                display: inline-block;
+                width: 100%;
+                height: .28rem;
+                font-size: .12rem;
+                color: #333;
+                line-height: .28rem;
+                border: none;
+                background-color: #ececec;
+                border-radius: .05rem;
+                padding: 0 .30rem;
+                // position: relative;
+                
+            }
+            .sear{
+                position: absolute;
+                top: 0.05rem;
+                left: 0.1rem;
+            }
+        }
+        .searchBtn{
+            display: block;
+            width: .54rem;
+            height: .40rem;
+            line-height: .40rem;
+            color: #666;
+            font-size: .14rem;
+            text-align: center;
+            position: absolute;
+            top: 0;
+            right: 0;
+        }
+        .back{
+            width: .3rem;
+            height: .3rem;
+            position: absolute;
+            top: .05rem;
+            display: block;
+            left: .03rem;
+            background: url(/assets/imgs/catIcon.png) no-repeat 0 0;
+            background-size: 1.5rem 1.5rem;
+            background-position: 0 0;
+        }
+    }
+        
+    
+    main{
+        .main_search{
+            width: 100%;
+            height: auto;
+            .hsContent{
+                width: 100%;
+                height: 100%;
+                padding-top:.41rem ;
+                position: absolute;
+                top: 0;
+                .hotWords{
+                    padding-top: 15px;
+                    width: 100%;
+                    height: auto;
+                    .hs-title{
+                        line-height: 24px;
+                        font-size: 0;
+                        vertical-align: middle;
+                        padding: 0 12px;
+                        position: relative;
+                        .sIcon{
+                            display: inline-block;
+                            vertical-align: middle;
+                            width: 16px;
+                            height: 16px;
+                            margin-right: 8px;
+                            background: url(/assets/imgs/searchIcon.png) no-repeat;
+                            background-size: 120px 40px;
+                            background-position: -62px 0;
+                            cursor: pointer;
+                        }
+                        span{
+                            vertical-align: middle;
+                            font-size: 15px;
+                            color: #252525;
+                        }
+                    }
+                    .hs-list{
+                        padding: .12rem .1rem 0 .2rem;
+                        span{
+                            display: inline-block;
+                            padding: 0 12px;
+                            height: 23px;
+                            line-height: 23px;
+                            color: #666;
+                            font-size: 13px;
+                            margin: 0 10px 16px 0;
+                            background-color: #f4f4f4;
+                            border-radius: 12px;
+                            cursor: pointer;
+                        }
+                    }
+                }
+                .hs-wrap{
+                    padding-top: 15px;
+                    width: 100%;
+                    height: auto;
+                    .hs-title{
+                        line-height: 24px;
+                        font-size: 0;
+                        vertical-align: middle;
+                        padding: 0 12px;
+                        position: relative;
+                        .sIcon{
+                            display: inline-block;
+                            vertical-align: middle;
+                            width: 16px;
+                            height: 16px;
+                            margin-right: 8px;
+                            background: url(/assets/imgs/searchIcon.png) no-repeat;
+                            background-size: 120px 40px;
+                            background-position: -84px 0;
+                            cursor: pointer;
+                        }
+                        span{
+                            vertical-align: middle;
+                            font-size: 15px;
+                            color: #252525;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

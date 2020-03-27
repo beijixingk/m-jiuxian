@@ -1,0 +1,64 @@
+<header id="header">
+    <span class="back"></span>
+    <p>整箱购</p>
+    <span class="navBar"></span>
+    <ul class="nav">
+        <li data-to='home' class="active">
+            <span class="yo-ico">&#xe668;</span>首页
+        </li>
+        <li data-to='sort'><span class="yo-ico">&#xe61b;</span>搜索</li>
+        <li data-to='cart'><span class="yo-ico">&#xe655;</span>购物车</li>
+        <li data-to='mine'><span class="yo-ico">&#xe66c;</span>我的酒仙</li>
+    </ul>
+</header>
+<main id="main_zheng">
+    <div class="main_zheng">
+        <div class="topBanner">
+            <img src="https://img09.jiuxian.com/bill/2017/1124/f7ef42a58bcb432f9fdde9f50340a3d5.jpg" alt="">
+        </div>
+        <div class="banner">
+            <div class="top">
+                <img src="https://img06.jiuxian.com/bill/2017/1219/6e9f330c82594e19a87ddf8899c4cdd2.jpg" alt="">
+            </div>
+            <ul>
+
+            </ul>
+            <div class="top">
+                <img src="https://img08.jiuxian.com/bill/2018/0226/2f68ee2e81404b6394289e452bb0f3b7.jpg" alt="">
+            </div>
+            <ul>
+
+            </ul>
+            <div class="top">
+                <img src="https://img10.jiuxian.com/bill/2018/0117/4429e09b09c74cd7a90e280a4f6d5c6f.jpg" alt="">
+            </div>
+            <ul>
+
+            </ul>
+            <div class="top">
+                <img src="https://img06.jiuxian.com/bill/2018/0315/dbd6570350e64cc39410f7d34a2befc7.jpg" alt="">
+            </div>
+            <ul>
+
+            </ul>
+            <div class="top">
+                <img src="https://img09.jiuxian.com/bill/2018/0226/8aec5e35f5eb4ea5b58d456d094d1c9c.jpg" alt="">
+            </div>
+            <ul>
+
+            </ul>
+        </div>
+
+        <div class="foot">
+            <img src="/assets/imgs/arrow.png" />
+            <b>上拉加载更多...</b>
+        </div>
+       
+        <div class="bottomBtnn">
+            <a class="toToppp">
+                <i></i> 
+                <span>返回<br>顶部</span>
+            </a>
+        </div>
+    </div>
+</main>

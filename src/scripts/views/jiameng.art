@@ -1,0 +1,40 @@
+<main>
+    <div class="main_jiameng">
+        <div class="top">
+            <img src="https://m.jiuxian.com/mobile/2018/GJMJC/images1017/images03.png" alt="">
+            <img src="https://m.jiuxian.com/mobile/2018/GJMJC/images1017/images04.png" alt="">
+            <img src="https://m.jiuxian.com/mobile/2018/GJMJC/images1017/images05.png" alt="">
+            <img src="https://m.jiuxian.com/mobile/2018/GJMJC/images1017/images06.png" alt="">
+            <img src="https://m.jiuxian.com/mobile/2018/GJMJC/images1017/images07.png" alt="">
+            <img src="https://m.jiuxian.com/mobile/2018/GJMJC/images1017/images08.png" alt="">
+            <img src="https://m.jiuxian.com/mobile/2018/GJMJC/images1017/images09.png" alt="">
+            <div class="new-form">
+                <img src="https://m.jiuxian.com/mobile/2018/GJMJC/images1017/Bitmap.png" alt="" class="logo-img">
+                <div class="biaodan">
+                    <p class="margin-bottom">单店加盟费用70万起包含(首批陈列货款+合作保证金+品牌使用费+软装材料预收款+店铺筹建辅导费)此项费用不包含店面租金</p>
+                    <p class="margin-bottom orange">*投资有风险，加盟需谨慎</p>
+                    <div class="biaodan-div">
+                        <div class="row">
+                            <span class="weight-font">姓<span style="visibility: hidden;">姓名</span>名：</span>
+                            <input type="text" placeholder="请输入姓名" value="" id="name">
+                        </div>
+                        <div class="row">
+                            <span class="weight-font">联系电话：</span>
+                            <input type="text" placeholder="请输入联系电话" value="" id="phoneNumber">
+                        </div>
+                        <div class="row">
+                            <span class="weight-font">开店城市：</span>
+                            <input type="text" placeholder="请输入开店城市" value="" id="openCity">
+                        </div>
+                    </div>
+                    <div class="margin-bottom" id="form-div"><span id="form-btn">留言获取加盟资料</span></div>
+                    <span class="tips">温馨提示:提交信息后勿点任何抽奖等广告信息，其他广告信息与本网站无任何关系！</span>
+                </div>
+            </div>
+            <div class="pos-div" id="form">
+                <img class="bg-img marginTop" src="https://m.jiuxian.com/mobile/2018/GJMJC/images1017/images10.png" alt="">
+                <div class="goTop-div"></div>
+            </div>
+        </div>
+    </div>
+</main>

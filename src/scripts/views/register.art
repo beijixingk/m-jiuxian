@@ -1,0 +1,50 @@
+<header id="header">
+    <span class="back"></span>
+    <p>用户注册</p>
+</header>
+<main>
+    <div class="main_register">
+        <div class="content">
+
+            <div class="content2">
+                <div class="tel">
+                    <i></i>
+                    <input type="text" id="iphone" placeholder="手机号" value="">
+                    <span class="tishi1"></span>
+                </div>
+                <div class="tel">
+                    <input type="text" class="iphone2" placeholder="" value="">
+                    <div class="load">
+                        <a ></a>
+                    </div>
+                    <img class="yantu" src="https://mlogin.jiuxian.com/captchaimg1" alt="">
+                </div>
+                
+                <div class="ma">
+                    <div class="tel2">
+                        <input type="text" class="iphone2" placeholder="请输入校验码" value="">
+                    </div>
+                    <div class="hqyzm">
+                        <a class="yzm off" href="javascript:;" id="yanzhenma">获取校验码</a>
+                    </div>
+                </div>
+                <div class="pwd">
+                    <i></i>
+                    <input type="password" id="pwd" class="iphone" placeholder="请输入密码" value="">
+                </div>
+                <div class="pwd">
+                    <i></i>
+                    <input type="password" id="pwd2" class="iphone" placeholder="请再次输入密码" value="">
+                    <span class="tishi3"></span>
+                </div>
+                <div class="confirm_reg">
+                    <a class="conreg" href="#">确认注册</a>
+                </div>
+                <div class="tupian">
+                    <img src="https://mlogin.jiuxian.com/captchaimg2" alt="">
+                </div>
+            </div>
+
+        </div>
+    </div>
+</main>

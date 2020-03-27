@@ -1,0 +1,252 @@
+<header id="header_detail" style="background: #de4943;">
+    <span class="back"></span>
+    <p>商品详情</p>
+    <span class="navBar"></span>
+    <ul class="nav">
+        <li data-to='home' class="active"><span class="yo-ico">&#xe668;</span>首页
+        </li>
+        <li data-to='sort'><span class="yo-ico">&#xe61b;</span>搜索</li>
+        <li data-to='cart'><span class="yo-ico">&#xe655;</span>购物车</li>
+        <li data-to='mine'><span class="yo-ico">&#xe66c;</span>我的酒仙</li>
+    </ul>
+</header>
+<main id="main_detail">
+    <div class="main_product">
+        <div class="top">
+            <div class="swiper-container" id="swiper0">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <img src="{{imgUrl}}" alt="">
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="{{imgUrl}}" alt="">
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="{{imgUrl}}" alt="">
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="{{imgUrl}}" alt="">
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="{{imgUrl}}" alt="">
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="{{imgUrl}}" alt="">
+                    </div>
+                </div>
+                <!-- 如果需要分页器 -->
+                <div class="swiper-pagination"></div>
+
+
+            </div>
+
+        </div>
+        <div class="words">
+            <p>
+                <img class="img1" src="/assets/imgs/jxzy.png" alt=""><span class="name">{{jiuName}}
+                    </span>
+            </p>
+
+            <div class="detailsTip">酒仙白酒节 限时特卖</div>
+            <div id="priceAndTag">
+                <div class="detailsPrice">
+                    <span class="price"><b>￥{{actprice}}</b></span>
+                    <del class="priceJX"><span>酒仙价:<s>{{jxprice}}</s></span></del>
+                </div>
+                <div class="clubDisc">
+                    <i class="clubImg"></i>
+                    <span>会员下单再享98折,可省3.98元</span>
+                </div>
+            </div>
+        </div>
+        <div class="detailsDl">
+            <s class="clubPic"></s>
+            <div class="dd">购买CLUB会员享受更多优惠</div>
+            <i class="pubIcon arrow"></i>
+        </div>
+        <div class="detailsbd">
+            <div class="detailsDl">
+                <div class="d1">
+                    <div class="dt">优惠</div>
+                    <div class="dd">
+                        <p><em style="background-color: #ff6266">限购</em>此商品限购2瓶</p>
+                    </div>
+                </div>
+
+                <div class="d1">
+                    <div class="dt">金币</div>
+                    <div class="dd">
+                        <p>
+                            赠送<b class="coinNum">19</b>个金币
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="detailsbd2" style="padding: 10px 10px 5px; margin-bottom: 0;">
+            <div class="detailsDl">
+                <div class="dt">数量</div>
+                <div class="dd">
+                    <a class="minus">-</a>
+                    <input type="text" value="1">
+                    <a class="plus">+</a>
+                </div>
+            </div>
+            <div class="city">
+                <p>送至</p>
+                <a class="city"> <b pid="2">北京</b> <b pid="52">北京市</b><b pid="500">东城区</b></a>
+
+            </div>
+            <p class="addTip">有货，预计1-2天可到达</p>
+            <div class="detailsDl">
+                <div class="dt">提示</div>
+                <div class="dd">
+                    <p>此商品不能使用优惠券</p>
+                    <p> 此商品无原厂手提袋 </p>
+                </div>
+            </div>
+        </div>
+        <div class="assesses">
+            <div class="ass_top">
+                <span class="ass_pro">商品评价</span>
+                <span class="ass_num">1211人评价</span>
+                <span class="good">好评度<span>100%</span></span>
+            </div>
+            <ul>
+                <li class="assess">
+                    <div class="information">
+                        <img src="https://misc.jiuxian.com/img/usercenter/photo.jpg" alt="">
+                        <span class="name">jxw52664683</span>
+                        <span class="common">酒圣</span>
+                        <span class="time">2019-10-06 18:38:13</span>
+                    </div>
+                    <div class="star">
+
+                    </div>
+                    <div class="comment">
+                        <p>第一次上酒仙网，买一瓶参加酒仙网10年促销活动,包装给力,送货快</p>
+                    </div>
+                    <img src="http://img10.jiuxian.com/eva//2019/1006/61610e3286c74939bd33d83b1f4feff12.jpg" alt="">
+                </li>
+            </ul>
+
+        </div>
+        <div class="productImg">
+            <div class="shop">
+                <img src="http://img07.jiuxian.com/bill/upload/brand/412/1/1377317457551.jpg " alt="">
+                <div class="shop_right">
+                    <p>扳倒井
+                        <em>|</em>
+                        <span>北京</span>
+                        <img src="/assets/imgs/jxzy.png" alt="">
+                    </p>
+                    <div class="infoText">
+                        山东扳倒井股份有限公司系国家大型酿酒企业，拥有“国井”、“扳倒井”两大品牌，主要生产绵甜幽雅、复粮芝麻香两大香型白酒。拥有中国第一品酒师、中国唯一的井窖工艺、大世界基尼斯之最即最大的粮食酒酿造车间等三项中国第一。近年来，企业坚持可持续发展战略，重视人才队伍建设和科技创新，形成了包括全国技术能手、国家级评酒员、中国白酒酿造科技专家、山东省首席技师等在内的全国一流白酒酿造团队；2009年，总工程师张锋国获国务院特殊津贴，成为鲁酒第一人。
+                    </div>
+                </div>
+            </div>
+            <div class="news">
+                <p>
+                    <span class="title">酒精浓度</span>
+                    <span class="info">60°</span>
+                </p>
+                <p>
+                    <span class="title">产地</span>
+                    <span class="info">中国,山东</span>
+                </p>
+                <p>
+                    <span class="title">净含量</span>
+                    <span class="info">5000ml</span>
+                </p>
+                <p>
+                    <span class="title">箱规</span>
+                    <span class="info">1*1</span>
+                </p>
+            </div>
+            <p class="detialTit">
+                <i></i>商品特点
+            </p>
+            <div class="detailImg">
+                <div class="outLay">
+                    <img src="http://img08.jiuxian.com/brandlogo/2019/0917/2b34117787534f2aa881cf1121e12dc6.jpg">
+                </div>
+                <div class="outLay">
+                    <img src="http://img06.jiuxian.com/brandlogo/2019/0917/6b0b11cf4db34d22ac53bd7f91ee79da.jpg">
+                </div>
+                <div class="outLay">
+                    <img src="http://img09.jiuxian.com/brandlogo/2019/0917/431ff7b8bbaf4984b45f944f083df589.jpg">
+                </div>
+            </div>
+            <div class="detailImg">
+                <div style="text-align: center;"><img
+                        src="http://img10.jiuxian.com/bill/2019/0806/014996a934274afe91c0d4e6ad70de48.jpg"><img
+                        src="http://img10.jiuxian.com/bill/2019/0806/db2a9f47912d48ffa39ff356320afbb3.jpg"><img
+                        src="http://img10.jiuxian.com/bill/2019/0806/0f113be14ee943678d4b1e8544fa4043.jpg"><img
+                        src="http://img10.jiuxian.com/bill/2019/0806/b8b6ffc557aa4507857bf6ba993b7b85.jpg"><img
+                        src="http://img10.jiuxian.com/bill/2019/0806/cfe96b448beb4bba91c1659843391685.jpg"><img
+                        src="http://img10.jiuxian.com/bill/2019/0806/2578a7933aa24898921e8a58367494cf.jpg"><img
+                        src="http://img10.jiuxian.com/bill/2019/0806/27d6fd669ce647bf8065531210dc011e.jpg"><img
+                        src="http://img10.jiuxian.com/bill/2019/0806/c6aa00acfc5345aeb5accbbf62b78bf0.jpg"><img
+                        src="http://img10.jiuxian.com/bill/2019/0806/a3eac9d14ec34500875986e501f5371c.jpg"><img
+                        src="http://img10.jiuxian.com/bill/2019/0806/1d32d1d2b1074128b3bdd63bbe035a50.jpg"><img
+                        src="http://img10.jiuxian.com/bill/2019/0806/29cb638fc5cf405b88173c45f45f2ab8.jpg"><img
+                        src="http://img10.jiuxian.com/bill/2019/0806/3ecfc089a2be4757a403fed9f48bd94a.jpg"><img
+                        src="http://img10.jiuxian.com/bill/2019/0806/2d197d6f364e45b59e200908a83dedc9.jpg"><img
+                        src="http://img10.jiuxian.com/bill/2019/0806/acfaf27f02c34d87a95a7440bece4e51.jpg"><img
+                        src="http://img10.jiuxian.com/bill/2019/0806/2b8018d5b860473cb0423b85aa2ff0f1.jpg"><img
+                        src="http://img10.jiuxian.com/bill/2019/0806/5e4d2edb6c1142ddbb38aba05ef007c7.jpg"></div>
+            </div>
+        </div>
+        <div class="bottom">
+            <div class="prodDet">
+                <p class="detialTit">
+                    <i></i>温馨提示
+                </p>
+                <p class="tishi">
+                    本网站不向未成年人售酒,<br>
+                    为了您和家人的健康，适度饮酒、不要酒后驾车，<br>
+                    酒仙网祝您购物愉快!
+                </p>
+                <p>根据新修订的《商标法》及国家工商总局最新文件要求，2014年5月1日之后不得将“驰名商标”字样用于商品宣传，酒仙网依法对商品图片中含“驰名商标”字样做马赛克处理；同时，涉及厂家正在按照新规定逐步更换包装，在此期间，我们将对新旧包装货品随机发货，请以实际收到的货物为准。给您带来的不便，敬请谅解。
+                </p>
+                <p class="pro_bold">价格说明</p>
+                <p class="list"><i class="list_dian"></i><span
+                        class="pro_color">酒仙价：</span>酒仙价是商品的指导价，商品展示的酒仙价为参考价，并非原价，该价格可能是品牌专柜标价、或由品牌供应商提供的指导价。</p>
+                <p class="list"><i class="list_dian"></i><span class="pro_color">促销价：</span>促销价为商品的销售价，是您最终决定是否购买商品的依据。
+                </p>
+                <p class="list"><i class="list_dian"></i><span
+                        class="pro_color">折扣：</span>如无特殊说明，折扣指销售商在促销价或酒仙价（如品牌专柜标价、商品吊牌价、厂商指导价、厂商建议零售价）等某一价格基础上计算出的优惠比例或优惠金额；如有疑问，您可在购买前联系客服进行咨询。
+                </p>
+                <p class="list"><i class="list_dian"></i><span
+                        class="pro_color">异常问题：</span>商品促销信息以商品详情页“促销”栏中的信息为准；商品的最终售价以订单结算页价格为准；如您发现活动商品售价或促销信息有异常，建议购买前先联系客服。
+                </p>
+            </div>
+        </div>
+    </div>
+</main>
+<footer class="detail_footer">
+    <div class="detailNav">
+        <ul>
+            <li style="display: true">
+
+                <i class="kefu"></i>
+
+            </li>
+            <li>
+
+                <i class="collect"></i>
+
+            </li>
+
+            <li>
+                <i class="cartIcon2"></i>
+            </li>
+        </ul>
+    </div>
+    <div class="footerBar">
+        <li class="inCart">加入购物车</li>
+        
+            <li class="buy">立即购买</li>
+       
+    </div>
+</footer>

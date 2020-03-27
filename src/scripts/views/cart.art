@@ -1,0 +1,26 @@
+<header id="header4">
+  <span class="back"></span>
+  <p>购物车</p>
+  <span class="yo-ico ss">&#xe601;</span>
+  <ul class="nav">
+    <li data-to='home' class="active"><span class="yo-ico">&#xe668;</span>首页
+    </li>
+    <li data-to='sort'><span class="yo-ico">&#xe61b;</span>搜索</li>
+    <li data-to='cart'><span class="yo-ico">&#xe655;</span>购物车</li>
+    <li data-to='mine'><span class="yo-ico">&#xe66c;</span>我的酒仙</li>
+  </ul>
+</header>
+<main class="main_c">
+  <div class="main_cart">
+    <div class="topCatTip clearfix">
+        <i class="pubIcon"></i>
+       <p> 自营商品实付满100元免运费，偏远地区满500免运费</p>
+    </div>
+    <div class="catKong">
+      <i></i>
+      <p>购物车还是空的</p>
+      <p><span>快去逛逛吧~</span></p>
+      <a href="/">促销活动</a>
+    </div>
+  </div>
+</main>

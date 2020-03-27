@@ -1,0 +1,213 @@
+<header id="headerP">
+    <span class="back"></span>
+    <p>酒仙网拼团</p>
+</header>
+<main id="main_pin">
+    <div class="main_pin">
+        <div class="banner">
+            <div class="swiper-container" id="swiper1">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide"><img
+                            src="https://img07.jiuxian.com/bill/2019/0919/9ac96dea6b1c41f484d403ede2b70d02.jpg" alt="">
+                    </div>
+                    <div class="swiper-slide"><img
+                            src="https://img08.jiuxian.com/bill/2019/0423/2918265af0ca4668a5bca2af194b712e.jpg" alt="">
+                    </div>
+
+                    <div class="swiper-slide"><img
+                            src="https://img10.jiuxian.com/bill/2019/0423/ea564d4869ab4ad4a068d289718f7217.jpg" alt="">
+                    </div>
+
+                </div>
+                <div class="swiper-pagination"></div>
+            </div>
+        </div>
+        <div class="mainBody">
+            <div class="topBox">
+                <div class="topTitle">
+                    <h3>今日<span>必拼</span></h3>
+                    <p>团长优惠区</p>
+                </div>
+            </div>
+            <div class="centerBox">
+                <div class="swiper-container" id="swiper3">
+                    <div class="swiper-wrapper" id="ss3">
+                        <div class="swiper-slide s3" id="slide3">
+                            <div class="ulImg">
+                                <div class="pic">
+                                    <img class="swiper-lazy"
+                                        src="https://img06.jiuxian.com/2019/0905/8faa7f04033944a0b9bf4010915f267d4.jpg">
+                                </div>
+                                <div class="cor">推荐</div>
+                            </div>
+                            <div class="proName">1499茅台飞天抽奖券</div>
+                            <div class="adNameBox">①1元拼1499茅台飞天抽奖券，每个id限拼1个，仅限新客拼团，新老客均可开团 ②每期将从已支付订单的用户中随机抽取300个中奖用户
+                                ③每周三10点公布中奖名单 ④未中奖的用户已经支付的款项不予退款，但可获赠价值399元葡萄酒（不包邮）以及20元购酒津贴，奖品将在活动结束后的7个工作日后安排发放
+                                （同一id只发放1次） ⑤此抽奖券属于虚拟产品，购买前请仔细查看活动说明，避免拍错！</div>
+                            <div class="boxWrap">
+                                <div class="condition">
+                                    <i class="indexIcon"></i>
+                                    <span>3人团</span>
+                                </div>
+                                <div class="y-price">
+                                    ￥<em>1.00</em>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide s3" id="slide3">
+                            <div class="ulImg">
+                                <div class="pic">
+                                    <img class="swiper-lazy"
+                                        src="https://img06.jiuxian.com/2017/0331/aee0dcf74e334c2e92e8a6d957729cd74.jpg">
+                                </div>
+                                <div class="cor">推荐</div>
+                            </div>
+                            <div class="proName">【茅台特卖】52° 茅台集团贵州窖酒500ml 收藏款（2011年）</div>
+                            <div class="adNameBox">茅台老酒，限量拼团，人气爆款，8年酒龄</div>
+                            <div class="boxWrap">
+                                <div class="condition">
+                                    <i class="indexIcon"></i>
+                                    <span>2人团</span>
+                                </div>
+                                <div class="y-price">
+                                    ￥<em>59.00</em>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide s3" id="slide3">
+                            <div class="ulImg">
+                                <div class="pic">
+                                    <img class="swiper-lazy"
+                                        src="https://img06.jiuxian.com/2018/0713/04e312e4a8e34f129913194b9f63a5904.jpg">
+                                </div>
+                                <div class="cor">推荐</div>
+                            </div>
+                            <div class="proName">桃花红小青梅酒375ml*2组合装 低度甜红酒果酒清酒甜酒</div>
+                            <div class="adNameBox">甘甜细腻 清新利口 低度微醺 聚会畅饮</div>
+                            <div class="boxWrap">
+                                <div class="condition">
+                                    <i class="indexIcon"></i>
+                                    <span>2人团</span>
+                                </div>
+                                <div class="y-price">
+                                    ￥<em>29.00</em>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide s3" id="slide3">
+                            <div class="ulImg">
+                                <div class="pic">
+                                    <img class="swiper-lazy"
+                                        src="https://img10.jiuxian.com/2017/1117/7d51eaea589b440599dabfa5779244934.jpg">
+                                </div>
+                                <div class="cor">推荐</div>
+                            </div>
+                            <div class="proName">四国联盟（法国+西班牙+澳大利亚+智利）干红葡萄酒187ml*4套装</div>
+                            <div class="adNameBox">一次品尝四国风味，乐享晚安小酒</div>
+                            <div class="boxWrap">
+                                <div class="condition">
+                                    <i class="indexIcon"></i>
+                                    <span>2人团</span>
+                                </div>
+                                <div class="y-price">
+                                    ￥<em>39.00</em>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide s3" id="slide3">
+                            <div class="ulImg">
+                                <div class="pic">
+                                    <img class="swiper-lazy"
+                                        src="https://img09.jiuxian.com/2019/0722/4bdd49b2f4f04f7986414579b8f2b6914.jpg">
+                                </div>
+                                <div class="cor">推荐</div>
+                            </div>
+                            <div class="proName">西班牙诺爱德金标干红葡萄酒750ml （双支装）+酒具套装</div>
+                            <div class="adNameBox">西班牙百年名庄珍酿</div>
+                            <div class="boxWrap">
+                                <div class="condition">
+                                    <i class="indexIcon"></i>
+                                    <span>2人团</span>
+                                </div>
+                                <div class="y-price">
+                                    ￥<em>59.00</em>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide s3" id="slide3">
+                            <div class="ulImg">
+                                <div class="pic">
+                                    <img class="swiper-lazy"
+                                        src="https://img08.jiuxian.com/2017/1024/cb0f2b5900f8438eaceb34a6360883044.jpg">
+                                </div>
+                                <div class="cor">推荐</div>
+                            </div>
+                            <div class="proName">【老酒特卖】52°茅台集团贵州御酒500ml(2012年）</div>
+                            <div class="adNameBox">茅台年份老酒，7年酒龄，全国统一销售价388元/瓶，限量拼团，库存老酒，数量有限！</div>
+                            <div class="boxWrap">
+                                <div class="condition">
+                                    <i class="indexIcon"></i>
+                                    <span>2人团</span>
+                                </div>
+                                <div class="y-price">
+                                    ￥<em>79.00</em>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide s3" id="slide3">
+                            <div class="ulImg">
+                                <div class="pic">
+                                    <img class="swiper-lazy"
+                                        src="https://img06.jiuxian.com/2019/0314/c14e4bafc5db41779d8fe340907b7c064.jpg">
+                                </div>
+                                <div class="cor">推荐</div>
+                            </div>
+                            <div class="proName">53°茅台迎宾酒500ml</div>
+                            <div class="adNameBox">限时限量拼购</div>
+                            <div class="boxWrap">
+                                <div class="condition">
+                                    <i class="indexIcon"></i>
+                                    <span>2人团</span>
+                                </div>
+                                <div class="y-price">
+                                    ￥<em>79.00</em>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide s3" id="slide3">
+                            <div class="ulImg">
+                                <div class="pic">
+                                    <img class="swiper-lazy"
+                                        src="https://img10.jiuxian.com/2019/1015/55433f40ef4f4883bf265b8a01537a834.jpg">
+                                </div>
+                                <div class="cor">推荐</div>
+                            </div>
+                            <div class="proName">【限量首发】 53°万御酱香70周年纪念酒 珍藏版 500ml</div>
+                            <div class="adNameBox">2盒送手提袋，5盒送1盒。 支持扫码验证防伪！</div>
+                            <div class="boxWrap">
+                                <div class="condition">
+                                    <i class="indexIcon"></i>
+                                    <span>2人团</span>
+                                </div>
+                                <div class="y-price">
+                                    ￥<em>99.00</em>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <div class="proList">
+                <ul>
+
+                </ul>
+            </div>
+        </div>
+        <div class="foot">
+            <img src="/assets/imgs/arrow.png" />
+            <b>上拉加载更多...</b>
+        </div>
+    </div>
+</main>

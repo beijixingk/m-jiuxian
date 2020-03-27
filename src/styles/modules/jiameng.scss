@@ -1,0 +1,103 @@
+.indexContainer {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    position: relative;
+
+main{
+  .main_jiameng{
+    width: 100%;
+    height: auto;
+    .top{
+      width: 100%;
+      height: auto;
+      img{
+        width: 100%;
+        height: auto;
+        display: block;
+      }
+      .new-form {
+        background: #CF000D;
+        padding: 0.3rem 0.15rem;
+        box-sizing: border-box;
+        img{
+          margin: 0 auto;
+          display: inherit;
+          width: 2rem;
+        }
+        .biaodan {
+          margin-top: 0.3rem;
+          padding: 0.35rem 0.2rem;
+          box-sizing: border-box;
+          background: white;
+          border-radius: 0.1rem;
+          .margin-bottom {
+            margin-bottom: 0.15rem;
+            font-size: 0.14rem;
+            color: #333333;
+          }
+          .orange{
+            color: #FF4503;
+            font-size: 0.12rem;
+          }
+          .biaodan-div{
+            .row{
+              padding: 0.08rem 0;
+              box-sizing: border-box;
+              span{
+                font-weight: bold;
+              }
+              input{
+                width: 74%;
+                outline: none;
+                border: none;
+                background: #E6E6E6;
+                font-size: 0.14rem;
+                padding: 0.08rem;
+                box-sizing: border-box;
+              }
+            }
+          }
+          #form-div{
+            text-align: center;
+            span{
+              margin-top: 0.05rem;
+              display: inline-block;
+              padding: 0.08rem 0.5rem;
+              box-sizing: border-box;
+              border-radius: 0.3rem;
+              background: #E9001E;
+              color: white;
+            }
+          }
+          .tips{
+            display: inline-block;
+            color: #999999;
+            font-size: 0.12rem;
+          }
+        }
+      }
+      .pos-div{
+        width: 100%;
+        height: auto;
+        img{
+          width: 100%;
+          height: auto;
+          display: block;
+        }
+        .goTop-div {
+          position: absolute;
+          bottom: 0.4rem;
+          left: 50%;
+          transform: translate(-50%,0);
+          z-index: 1;
+          width: 0.5rem;
+          height: 0.5rem;
+        }
+      }
+    }
+    
+    
+  }
+}
+}

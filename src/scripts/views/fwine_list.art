@@ -1,0 +1,14 @@
+{{each list}}
+<li>
+    <div class="prodImg">
+        <img  src="{{$value.goods_thumb}}">
+    </div>
+    <div class="prodInfo">
+        <a class="name" href="">{{$value.goods_name}}</a>
+        <p class="slogan">{{$value.sub_title}}</p>
+        <p class="price">
+            <strong class="nowPrice_2">￥{{$value.cur_price}}.00</strong>
+        </p>
+    </div>
+</li>
+{{/each}}

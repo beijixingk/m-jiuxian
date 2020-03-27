@@ -1,0 +1,61 @@
+<header id="header">
+    <span class="back"></span>
+    <p>洋酒</p>
+    <span class="navBar"></span>
+    <ul class="nav">
+        <li data-to='home' class="active"><span class="yo-ico">&#xe668;</span>首页
+        </li>
+        <li data-to='sort'><span class="yo-ico">&#xe61b;</span>搜索</li>
+        <li data-to='cart'><span class="yo-ico">&#xe655;</span>购物车</li>
+        <li data-to='mine'><span class="yo-ico">&#xe66c;</span>我的酒仙</li>
+    </ul>
+</header>
+<main>
+    <div class="main_fwine">
+        <div class="top">
+            <div class="top_img">
+                <div class="img_left">
+                    <img src="https://img06.jiuxian.com/bill/2019/0107/e2e81f14a1e14b579a74cff466c6c4bc.jpg" alt="">
+                </div>
+                <div class="img_right">
+                    <img src="https://img08.jiuxian.com/bill/2018/0726/33407293b7a340d0b18eba7529eb4b27.jpg" alt="">
+                    <img src="https://img08.jiuxian.com/bill/2018/0726/e43006f74c24437c95aa1268c6471701.jpg" alt="">
+                </div>
+            </div>
+            <ul class="top_nav">
+                <li><a href="">白兰地</a></li>
+                <li><a href="">威士忌</a></li>
+                <li><a href="">伏特加</a></li>
+                <li><a href="">龙舌兰</a></li>
+                <li><a href="">朗姆酒</a></li>
+                <li><a href="">预调酒</a></li>
+                <li><a href="">韩国烧酒</a></li>
+                <li><a href="" class="whole">查看全部</a></li>
+            </ul>
+        </div>
+        <div class="center">
+            <div class="center_title">
+                <div class="line"></div>
+                <div class="title">精品推荐</div>
+            </div>
+            <div class="center_list">
+                <ul>
+                    
+                </ul>
+            </div>
+        </div>
+        <div class="foot">
+            <img src="/assets/imgs/arrow.png" />
+            <b>上拉加载更多...</b>
+        </div>
+           
+        <div class="all_box">
+            <div class="all">
+                <a class="seeAll">
+                    查看全部
+                </a>
+            </div>
+        </div>
+        
+    </div>
+</main>

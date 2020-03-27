@@ -1,0 +1,53 @@
+<header id="header">
+    <span class="back"></span>
+    <p>清仓狂甩 一瓶不留</p>
+    <span class="navBar"></span>
+    <ul class="nav">
+        <li data-to='home' class="active">
+            <span class="yo-ico">&#xe668;</span>首页
+        </li>
+        <li data-to='sort'><span class="yo-ico">&#xe61b;</span>搜索</li>
+        <li data-to='cart'><span class="yo-ico">&#xe655;</span>购物车</li>
+        <li data-to='mine'><span class="yo-ico">&#xe66c;</span>我的酒仙</li>
+    </ul>
+</header>
+<main id="main_qing">
+    <div class="main_qing">
+        <div class="topBanner">
+            <img src="https://img09.jiuxian.com/bill/2017/0919/0d7969b9cf7c4492aa084abd1671d2e5.jpg" alt="">
+        </div>
+        <div class="banner">
+            <div class="top">
+                <img src="https://img07.jiuxian.com/bill/2016/1105/26f2339484254907adfdafd313c0e676.jpg" alt="">
+            </div>
+            <ul>
+
+            </ul>
+            <div class="top">
+                <img src="https://img10.jiuxian.com/bill/2016/1105/ee06313d3a504cd6a4fde6442992f6cf.jpg" alt="">
+            </div>
+            <ul>
+
+            </ul>
+            <div class="top">
+                <img src="https://img10.jiuxian.com/bill/2016/1105/57898458dcf74f649ce71d861e07169c.jpg" alt="">
+            </div>
+            <ul>
+
+            </ul>
+            
+        </div>
+
+        <div class="foot">
+            <img src="/assets/imgs/arrow.png" />
+            <b>上拉加载更多...</b>
+        </div>
+       
+        <div class="bottomBtnn">
+            <a class="toToppp">
+                <i></i> 
+                <span>返回<br>顶部</span>
+            </a>
+        </div>
+    </div>
+</main>

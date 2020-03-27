@@ -1,0 +1,33 @@
+<div class="indexContainer">
+  <header class="header0" id="hea">
+    <div class="logo">
+      <span class="jx-sprite"></span>
+    </div>
+    <a>
+      <div class="search">
+          <span class="yo-ico">&#xe61b;</span>
+          <div class="search_content">超级秒杀日 领津贴满200减20</div>
+      </div>
+    </a>
+  </header>
+  <main>
+      
+  </main>
+  <div class="toTop" id="toTop" style="display: block;">
+    <a href="#hea"> 
+       <i class="jx-sprite-icon"></i>
+    </a>
+  </div>
+  <footer>
+    <ul>
+      <li data-to='home' class="active">
+        <span class="yo-ico">&#xe668;</span>
+        <span class="word">首页</span>
+      </li>
+      <li data-to='sort'><span class="yo-ico">&#xe653;</span><span class="word">分类</span></li>
+      <li data-to='clearance'><img src="https://img09.jiuxian.com/bill/2018/0528/56760d41e3e745afa14e3cea1713631c.png" alt=""></li>
+      <li data-to='cart'><span class="yo-ico">&#xe655;</span><span class="word">购物车</span></li>
+      <li data-to='mine'><span class="yo-ico">&#xe66c;</span><span class="word">我的酒仙</span></li>
+    </ul>
+  </footer>
+</div>

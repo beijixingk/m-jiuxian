@@ -1,0 +1,61 @@
+<header id="header">
+    <span class="back"></span>
+    <p>值得买</p>
+    <span class="navBar"></span>
+    <ul class="nav">
+        <li data-to='home' class="active">
+            <span class="yo-ico">&#xe668;</span>首页
+        </li>
+        <li data-to='sort'><span class="yo-ico">&#xe61b;</span>搜索</li>
+        <li data-to='cart'><span class="yo-ico">&#xe655;</span>购物车</li>
+        <li data-to='mine'><span class="yo-ico">&#xe66c;</span>我的酒仙</li>
+    </ul>
+</header>
+<main id="main_buy">
+    <div class="main_buy">
+        <div class="topBanner">
+            <img src="https://img07.jiuxian.com/bill/2019/0315/72d38f1ca19f4c02b712098a83f15fb9.jpg" alt="">
+        </div>
+        <div class="banner">
+            <div class="top">
+                <img src="https://img06.jiuxian.com/bill/2019/0318/6cd142939cce42e7875287aee2f1e27c.jpg" alt="">
+            </div>
+            <ul>
+
+            </ul>
+            <div class="top">
+                <img src="https://img07.jiuxian.com/bill/2019/0304/594e9e7baca74d069284cfd56141f117.jpg" alt="">
+            </div>
+            <ul>
+
+            </ul>
+            <div class="top">
+                <img src="https://img09.jiuxian.com/bill/2019/0304/3bbbb4692fa74b87bba6a615545b1b92.jpg" alt="">
+            </div>
+            <ul>
+
+            </ul>
+            <div class="top">
+                <img src="https://img09.jiuxian.com/bill/2019/0305/213a7cf37a8d4d57b3940a67bce0898f.jpg" alt="">
+            </div>
+            <ul>
+
+            </ul>
+            <ul>
+
+            </ul>
+        </div>
+
+        <div class="foot">
+            <img src="/assets/imgs/arrow.png" />
+            <b>上拉加载更多...</b>
+        </div>
+       
+        <div class="bottomBtnn">
+            <a class="toToppp">
+                <i></i> 
+                <span>返回<br>顶部</span>
+            </a>
+        </div>
+    </div>
+</main>

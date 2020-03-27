@@ -1,0 +1,19 @@
+
+
+    {{each list0}}
+    <li>
+        <div class="pic">
+            <img src="{{$value.goods_thumb}}">
+        </div>
+        <p class="name">{{$value.goods_name}}</p>
+        <!-- <p class="adText"></p> -->
+        <div class="orice">
+            <p>
+                <span>￥{{$value.shop_price}}</span>
+                <!-- <del>￥29</del> -->
+            </p>
+            <a class="goBuy">点击购买</a>
+        </div>
+ 
+    </li>
+    {{/each}}

@@ -1,0 +1,127 @@
+<header id="header">
+    <span class="back"></span>
+    <p>用户登录</p>
+    <!-- <span class="navBar"></span>
+    <ul class="nav">
+        <li data-to='home' class="active"><span class="yo-ico">&#xe668;</span>首页
+        </li>
+        <li data-to='sort'><span class="yo-ico">&#xe61b;</span>搜索</li>
+        <li data-to='cart'><span class="yo-ico">&#xe655;</span>购物车</li>
+        <li data-to='mine'><span class="yo-ico">&#xe66c;</span>我的酒仙</li>
+    </ul> -->
+</header>
+<main>
+    <div class="main_mine">
+        <ul class="tab" id="tt">
+            <li class="tabb">
+                <p class="p1">账号登录</p>
+                <span></span>
+            </li>
+            <li class="tabb on">
+                <p class="p1">手机动态密码登录</p>
+                <span></span>
+            </li>
+        </ul>
+        <div class="content">
+            <div class="content1">
+                <div class="tel">
+                    <i></i>
+                    <input type="text" class="iphone" placeholder="用户名/邮箱/手机号" value="">
+                </div>
+                <div class="pwd">
+                    <i></i>
+                    <input type="text" class="iphone" placeholder="密码" value="">
+                </div>
+                <div class="tel2">
+                    <input type="text" class="iphone2" placeholder="" value="">
+                    <div class="load">
+                        <a ></a>
+                    </div>
+                    <img class="yantu" src="https://mlogin.jiuxian.com/captchaimg1" alt="">
+                </div>
+                <div class="tupian">
+                    <img src="https://mlogin.jiuxian.com/captchaimg2" alt="">
+                </div>
+                <div class="login">
+                        <a href="#">立即登录</a>
+                    </div>
+                    <ul class="tab2">
+                        <li>
+                            <p class="register">免费注册</p>
+                        </li>
+                        <li>
+                            <p>找回密码</p>
+                        </li>
+                    </ul>
+    
+                    <div class="partner">
+                        <div class="title">
+                            <div class="line"></div>
+                            <div class="partner">合作伙伴登录</div>
+                        </div>
+                        <ul class="choose clearfix">
+                            <li>
+                                <a href="https://mlogin.jiuxian.com/unionLogin/qqlogin" class="qq"></a>
+                            </li>
+                            <li>
+                                <a href="https://mlogin.jiuxian.com/unionLogin/alipay" class="alipay"></a>
+                            </li>
+                        </ul>
+                    </div>
+            </div>
+            <div class="content2">
+                <div class="tel">
+                    <i></i>
+                    <input type="text" id="iphone" placeholder="请输入手机号，新用户将自动注册" value="">
+                </div>
+                <div class="tel2">
+                    <input type="text" class="iphone2" placeholder="" value="">
+                    <div class="load">
+                        <a ></a>
+                    </div>
+                    <img class="yantu2" src="https://mlogin.jiuxian.com/captchaimg1" alt="">
+                </div>
+                <div class="tupian2">
+                    <img src="https://mlogin.jiuxian.com/captchaimg2" alt="">
+                </div>
+                <div class="ma">
+                    <div class="tel2">
+                        <input type="text" class="iphone2" placeholder="请输入校验码" value="">
+                    </div>
+                    <div class="hqyzm">
+                        <a class="yzm off" href="javascript:;" id="yanzhenma">获取校验码</a>
+                    </div>
+                </div>
+
+                <div class="login">
+                    <a href="#">立即登录</a>
+                </div>
+                <ul class="tab2">
+                    <li>
+                        <p class="register">免费注册</p>
+                    </li>
+                    <li>
+                        <p>找回密码</p>
+
+                    </li>
+                </ul>
+
+                <div class="partner">
+                    <div class="title">
+                        <div class="line"></div>
+                        <div class="partner">合作伙伴登录</div>
+                    </div>
+                    <ul class="choose clearfix">
+                        <li>
+                            <a href="https://mlogin.jiuxian.com/unionLogin/qqlogin" class="qq"></a>
+                        </li>
+                        <li>
+                            <a href="https://mlogin.jiuxian.com/unionLogin/alipay" class="alipay"></a>
+                        </li>
+                    </ul>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</main>

@@ -1,0 +1,76 @@
+<header id="header">
+    <span class="back"></span>
+    <p>裸价清仓</p>
+    <span class="navBar"></span>
+    <ul class="nav">
+        <li data-to='home' class="active">
+            <span class="yo-ico">&#xe668;</span>首页
+        </li>
+        <li data-to='sort'><span class="yo-ico">&#xe61b;</span>搜索</li>
+        <li data-to='cart'><span class="yo-ico">&#xe655;</span>购物车</li>
+        <li data-to='mine'><span class="yo-ico">&#xe66c;</span>我的酒仙</li>
+    </ul>
+</header>
+<main>
+    <div class="main_main3">
+        <div class="topBanner">
+            <img src="https://img08.jiuxian.com/bill/2018/1218/3e88122c37bc49dc96c3b120efaf4db3.jpg" alt="">
+        </div>
+        <div class="banner">
+            <div class="top">
+                <img src="https://img08.jiuxian.com/bill/2018/1010/d4ace760e1f74ef589d979c8db9475de.jpg" alt="">
+            </div>
+            <ul>
+              
+            </ul>
+            <div class="top">
+                <img src="https://img07.jiuxian.com/bill/2018/1010/ea7c4d4b1bca4a70a2237385da93032d.jpg" alt="">
+            </div>
+            <ul>
+                
+            </ul>
+            <div class="top">
+                <img src="https://img06.jiuxian.com/bill/2018/1010/f393384547a34737994a506f1f14e90f.jpg" alt="">
+            </div>
+            <ul>
+
+            </ul>
+            <div class="top">
+                <img src="https://img08.jiuxian.com/bill/2018/1010/b709f3366d3d4647bfea92a8c5979a45.jpg" alt="">
+            </div>
+            <ul>
+
+            </ul>
+
+
+        </div>
+
+        <div class="foot">
+            <img src="/assets/imgs/arrow.png" />
+            <b>上拉加载更多...</b>
+        </div>
+        <ul class="clearfix">
+            <li>
+                <a href="">
+                    <img src="https://img10.jiuxian.com/bill/2018/1031/fb02b7d4ec2f4c978f55722e795a3417.jpg"
+                        original="https://img10.jiuxian.com/bill/2018/1031/fb02b7d4ec2f4c978f55722e795a3417.jpg"
+                        style="display: inline;">
+                </a>
+            </li>
+            <li>
+                <a href="">
+                    <img src="https://img10.jiuxian.com/bill/2018/1031/c084879b81c24b8698bd7a69c982cc98.jpg"
+                        original="https://img10.jiuxian.com/bill/2018/1031/c084879b81c24b8698bd7a69c982cc98.jpg"
+                        style="display: inline;">
+                </a>
+            </li>
+            <!-- 活动规则 -->
+        </ul>
+        <div class="bottomBtn" id="returnTop">
+            <a class="toTopp" href="#gotop">
+                <i></i> 
+                <span>返回<br>顶部</span>
+            </a>
+        </div>
+    </div>
+</main>

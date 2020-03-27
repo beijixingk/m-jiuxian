@@ -1,0 +1,128 @@
+.indexContainer {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  position: relative;
+  .header0 {
+    height: .44rem;
+    background: rgba(0,0,0,0);
+    width: 100%;
+    display: flex;
+    padding: .15rem .15rem;
+    align-items: center;
+    justify-content: space-between;
+    position: absolute;
+    z-index: 10;
+    .logo{
+      width: .57rem;
+      height: .27rem;
+      background: #fff;
+      border-radius: 3px;
+      margin-right: .05rem;
+      span{
+        display: inline-block;
+        width: .57rem;
+        height: .27rem;
+        background-position: 0 0;
+        background: url(/assets/imgs/img.png) no-repeat;
+        background-size: 2rem .73rem;
+      }
+    }
+    a{
+      display: block;
+      width:6.08rem;
+      height: .30rem;
+      background:#f6f6f6;
+      border-radius: .03rem;
+      margin-left: 0.05rem;
+      .search{
+        
+        color: #aaa;
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        padding-left: .05rem;
+        span{
+          padding-left:0.05rem; 
+          padding-right:0.05rem; 
+        }
+        .search_content{
+          height: .30rem;
+          line-height: .30rem;
+          // background-color: #fff;
+          overflow: hidden;
+          color: #666;
+
+        }
+      }
+    }
+    
+  }
+
+  main{
+    flex: 1;
+    background: #fff;
+    overflow-y: hidden;
+  }
+  .toTop{
+    width: 51px;
+    height: 51px;
+    display: none;
+    position: fixed;
+    bottom: 70px;
+    right: 12px;
+    z-index: 10000;
+    i{
+      display: block;
+      background: url(/assets/imgs/img.png) no-repeat;
+      background-position: -93px -2px;
+      background-size: 150px 55px;
+      width: 100%;
+      height: 100%;
+      display: none;
+    }
+  }
+  footer {
+    height: .44rem;
+    background: #f1f1f1;
+    ul {
+      height: 100%;
+      display: flex;
+      li {
+        flex: 1;
+        background: #f6f6f6;
+        text-align: center;
+        line-height: .22rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #c2cfcc;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        .yo-ico{
+          flex: auto;
+          text-align: center;
+          display: block;
+          font-size: .19rem;
+          width: 50%;
+          height: 50%;
+        }
+        .word{
+          display: block;
+          height: 50%;
+          font-size: .10rem;
+          color: #000;
+        }
+        &.active {
+          color: #9e100e;
+        }
+        img{
+          display: block;
+          width: .42rem;
+          height: .42rem;
+        }
+      }
+    }
+  }
+}

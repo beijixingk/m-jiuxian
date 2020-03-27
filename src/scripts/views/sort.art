@@ -1,0 +1,97 @@
+<header id="header">
+    <span class="back"></span>
+    <p>选酒</p>
+    <span class="navBar"></span>
+    <ul class="nav">
+        <li data-to='home' class="active"><span class="yo-ico">&#xe668;</span>首页
+        </li>
+        <li data-to='sort'><span class="yo-ico">&#xe61b;</span>搜索</li>
+        <li data-to='cart'><span class="yo-ico">&#xe655;</span>购物车</li>
+        <li data-to='mine'><span class="yo-ico">&#xe66c;</span>我的酒仙</li>
+    </ul>
+</header>
+<main>
+    <div class="main_main2">
+        <div class="search">
+            <span class="yo-ico">&#xe61b;</span>
+            <div class="search_content">品质酒窖：部分下单享好礼</div>
+        </div>
+        <div class="main2_center">
+            <ul>
+                <li class="liquor">
+                    <!-- <a href="#"> -->
+                        <i></i>
+                        <span>白酒</span>
+                    <!-- </a> -->
+                </li>
+                <li class="wine">
+                    <!-- <a href="#"> -->
+                        <i></i>
+                        <span>葡萄酒</span>
+                    <!-- </a> -->
+                </li>
+                <li class="fwine">
+                    <!-- <a href="#"> -->
+                        <i></i>
+                        <span>洋酒</span>
+                    <!-- </a> -->
+                </li>
+                <li class="zheng">
+                    <!-- <a href="#"> -->
+                        <i></i>
+                        <span>整箱购</span>
+                    <!-- </a> -->
+                </li>
+                <li class="lao">
+                    <!-- <a href="#"> -->
+                        <i></i>
+                        <span>老酒</span>
+                    <!-- </a> -->
+                </li>
+                <li class="qing">
+                    <!-- <a href="#"> -->
+                        <i></i>
+                        <span>清仓特卖</span>
+                    <!-- </a> -->
+                </li>
+                <li class="hai">
+                    <!-- <a href="#"> -->
+                        <i></i>
+                        <span>海外直采</span>
+                    <!-- </a> -->
+                </li>
+                <li class="da">
+                    <!-- <a href="#"> -->
+                        <i></i>
+                        <span>精美大坛</span>
+                    <!-- </a> -->
+                </li>
+                <li class="hong">
+                    <!-- <a href="#"> -->
+                        <i></i>
+                        <span>红酒整箱</span>
+                    <!-- </a> -->
+                </li>
+                <li class="buy">
+                    <!-- <a href="#"> -->
+                        <i></i>
+                        <span>值得买</span>
+                    <!-- </a> -->
+                </li>
+                <li class="xiao">
+                    <!-- <a href="#"> -->
+                        <i></i>
+                        <span>销量排行</span>
+                    <!-- </a> -->
+                </li>
+                <li class="li">
+                    <!-- <a href="#"> -->
+                        <i></i>
+                        <span>礼尚往来</span>
+                    <!-- </a> -->
+                </li>
+            </ul>
+        </div>
+    </div>
+
+</main>

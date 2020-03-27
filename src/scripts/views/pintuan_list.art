@@ -1,0 +1,21 @@
+{{each list}}
+<li class="boxShadow">
+
+    <div class="pic">
+        <img class="test-lazyload" src="{{$value.mainImgPath}}">
+    </div>
+    <div class="proRight">
+        <div class="name">{{$value.productName}}</div>
+        <div class="adName">{{$value.subTitle}}</div>
+        <div class="tuanPersonBox">
+            <div class="tuanPerson"><i class="indexIcon"></i><span>3人团</span></div>
+            <div class="totalPerson">已有101人进行拼团</div>
+        </div>
+        <div class="ptPrice">
+            <span>¥<em>{{$value.pintuanPrice}}.00</em></span>
+            <del>¥{{$value.promoPrice}}.00</del>
+        </div>
+        <a href="javascript" class="goPt">去拼团</a>
+    </div>
+</li>
+{{/each}}

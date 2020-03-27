@@ -1,0 +1,62 @@
+<header id="header">
+    <span class="back"></span>
+    <p>老酒馆 增值收藏佳品</p>
+    <span class="navBar"></span>
+    <ul class="nav">
+        <li data-to='home' class="active">
+            <span class="yo-ico">&#xe668;</span>首页
+        </li>
+        <li data-to='sort'><span class="yo-ico">&#xe61b;</span>搜索</li>
+        <li data-to='cart'><span class="yo-ico">&#xe655;</span>购物车</li>
+        <li data-to='mine'><span class="yo-ico">&#xe66c;</span>我的酒仙</li>
+    </ul>
+</header>
+<main id="main_lao">
+    <div class="main_lao">
+        <div class="topBanner">
+            <img src="https://img07.jiuxian.com/bill/2019/0527/d80c72fe759f44d8a8e253d4e05103eb.jpg" alt="">
+        </div>
+        <div class="banner">
+            <div class="top">
+                <img src="https://img10.jiuxian.com/bill/2017/1012/4eae25d3575a4b40bc25357291501c00.jpg" alt="">
+            </div>
+            <ul>
+
+            </ul>
+            <div class="top">
+                <img src="https://img08.jiuxian.com/bill/2017/1012/b4ef4c58b25d4aeeb5934c85784a9bca.jpg" alt="">
+            </div>
+            <ul>
+
+            </ul>
+            <div class="top">
+                <img src="https://img10.jiuxian.com/bill/2017/1012/23e802fecd7c45c69925967678afe194.jpg" alt="">
+            </div>
+            <ul>
+
+            </ul>
+            <div class="top">
+                <img src="https://img06.jiuxian.com/bill/2017/1012/9c67102b1b1b47898aab716ab0ca1bc0.jpg" alt="">
+            </div>
+            <ul>
+
+            </ul>
+            
+            <ul>
+
+            </ul>
+        </div>
+
+        <div class="foot">
+            <img src="/assets/imgs/arrow.png" />
+            <b>上拉加载更多...</b>
+        </div>
+       
+        <div class="bottomBtnn">
+            <a class="toToppp">
+                <i></i> 
+                <span>返回<br>顶部</span>
+            </a>
+        </div>
+    </div>
+</main>

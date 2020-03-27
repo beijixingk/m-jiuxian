@@ -1,0 +1,24 @@
+{{each list}}
+<li data-id="{{$value.commonProductInfo.pid}}" data-name="{{$value.commonProductInfo.pname}}" data-actprice="{{$value.commonProductInfo.actPrice}}" data-jxprice="{{$value.commonProductInfo.jxPrice}}" data-img="{{$value.commonProductInfo.imgPath}}">
+    <a href="https://m.jiuxian.com/m_v1/goods/view/70048">
+        <span class="tagList">
+            <i style="background:#ffa855;">限时抢购</i>
+            <i style="background:#8888ff;">多买多赠</i>
+        </span>
+        <div class="ulImg">
+            <strong class="loadImg"></strong>
+            <span class="pic">
+                <img src="{{$value.commonProductInfo.imgPath}}" class="test-lazyload">
+            </span>
+        </div>
+        <span class="name">
+            <!-- <i class="jxzx"></i> -->
+            <span>{{$value.commonProductInfo.pname}}</span>
+        </span>
+        <span class="price">
+            <strong class="priceInteger" goodid="70048">¥{{$value.commonProductInfo.actPrice}}</strong>
+            <del>￥{{$value.commonProductInfo.jxPrice}}</del>
+        </span>
+    </a>
+</li>
+{{/each}}

@@ -1,0 +1,33 @@
+<header id="header">
+    <span class="back"></span>
+    <p>赚酒客自用省钱推荐赚钱</p>
+    <span class="navBar"></span>
+    <ul class="nav">
+        <li data-to='home' class="active"><span class="yo-ico">&#xe668;</span>首页
+        </li>
+        <li data-to='sort'><span class="yo-ico">&#xe61b;</span>搜索</li>
+        <li data-to='cart'><span class="yo-ico">&#xe655;</span>购物车</li>
+        <li data-to='mine'><span class="yo-ico">&#xe66c;</span>我的酒仙</li>
+    </ul>
+</header>
+<main>
+    <div class="main_money">
+        <div class="top">
+            <img src="https://m.jiuxian.com/mobile/2019/ZJK/images/1.jpg" alt="">
+            <img src="https://m.jiuxian.com/mobile/2019/ZJK/images/2.jpg" alt="">
+            <img src="https://m.jiuxian.com/mobile/2019/ZJK/images/3.jpg" alt="">
+            <img src="https://m.jiuxian.com/mobile/2019/ZJK/images/4.jpg" alt="">
+            <img src="https://m.jiuxian.com/mobile/2019/ZJK/images/5.jpg" alt="">
+            <img src="https://m.jiuxian.com/mobile/2019/ZJK/images/6.jpg" alt="">
+            <img src="https://m.jiuxian.com/mobile/2019/ZJK/images/7.jpg" alt="">
+            <img src="https://m.jiuxian.com/mobile/2019/ZJK/images/8.jpg" alt="">
+            <img src="https://m.jiuxian.com/mobile/2019/ZJK/images/9.jpg" alt="">
+            <img src="https://m.jiuxian.com/mobile/2019/ZJK/images/10.jpg" alt="">
+            <img src="https://m.jiuxian.com/mobile/2019/ZJK/images/11.jpg" alt="">
+            <img src="https://m.jiuxian.com/mobile/2019/ZJK/images/12.jpg" alt="">
+            <img src="https://m.jiuxian.com/mobile/2019/ZJK/images/13a.jpg" alt="">
+            <img src="https://m.jiuxian.com/mobile/2019/ZJK/images/20.jpg" alt="">
+            <img class="backTop" src="https://m.jiuxian.com/mobile/2019/ZJK/images/end.jpg" alt="">
+        </div>
+    </div>
+</main>
